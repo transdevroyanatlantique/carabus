@@ -1,187 +1,21 @@
-LICENCE TRANSDEV ROYAN ATLANTIQUE OPEN DATA
-
-
-PRÉAMBULE
-Dans l’intérêt de ses utilisateurs, TRANSDEV ROYAN ATLANTIQUE a décidé de s’engager dans une démarche « OPEN DATA », de partage de certaines informations liées à son activité, par la mise à disposition sur le site github.com, de données issues de bases de données dont TRANSDEV ROYAN ATLANTIQUE est le titulaire et le producteur au sens du Code de la Propriété intellectuelle français, notamment l’article L. 341-1 (ci-après le « Contenu »).
-
-Le présent contrat de licence (« la Licence ») permet aux personnes intéressées d’utiliser dans les conditions définies ci-après (ci-après le(s) « Licencié(s) » ou « vous ») des Contenus de façon créative et mettant à profit les technologies disponibles de partage d’informations (applications pour smartphones, logiciels, etc).
-
-Dans ce cadre, la Licence a pour objet de définir les conditions dans lesquelles les Licenciés qui accèdent à des Contenus mis à disposition par TRANSDEV ROYAN ATLANTIQUE engagés dans la démarche open data, peuvent utiliser, partager, modifier les Contenus en question.
-
-En téléchargeant des Contenus sur le site github.com engagé dans la démarche open data, vous vous engagez à respecter les termes de la Licence et notamment les obligations mises à votre charge en contrepartie de l’autorisation d’accéder à des Contenus.
-
-
-
-ARTICLE 1 – DÉFINITIONS
-Dans le cadre de la Licence, les termes qui apparaissent avec une majuscule ont le sens qui leur est attribué ci-après :
-
-« Base de Données » : désigne l’ensemble de matériels (le Contenu) organisés de manière systématique ou méthodique et accessibles individuellement par voie électronique ou de toute autre manière prévue en vertu de la Licence, et disponible sur le site github.com par TRANSDEV ROYAN ATLANTIQUE engagé dans la démarche open data. TRANSDEV ROYAN ATLANTIQUE est le producteur de la Bases de Données au sens de l’article L. 341-1 du Code de la propriété intellectuelle.
-« Base de Données Collaborative » : désigne la base de données composée des Données notamment disponibles sur le site github.com par  TRANSDEV ROYAN ATLANTIQUE engagé dans la démarche open data, Base prise sous sa forme non modifiée, en tant que partie d’un nouvel ensemble de bases de données distinctes, rassemblées pour former un ensemble collectif. Une création qui constitue une Base de données Collaborative ne saurait être considérée comme une Base de données Dérivée.
-« Base de Données Dérivée » : désigne une Base de Données reposant sur la Base de données, y compris toute traduction, adaptation, arrangement, modification ou toute autre altération de la Base de données ou d’une Partie Substantielle du Contenu, y compris, de manière non limitative, l’Extraction ou la Réutilisation de la totalité ou d’une Partie Substantielle du Contenu dans une nouvelle base de données.
-« Contenu » : désigne le contenu de la Base de données, soit les informations, les données et tout autre matériel intégré dans la Base de données, proposées à la Réutilisation.
-« Création Produite » : désigne une création (tel qu’un support visuel, audiovisuel ou audio, un texte, une base de données, un logiciel ou un service de communication électronique, de communication publique ou par voie électronique) résultant de l’utilisation de la totalité ou d’une Partie Substantielle du Contenu (à travers une recherche ou une autre requête) de la Base de données, d’une Base de données Dérivée ou de la Base de données en tant que partie d’une Base de données Collaborative.
-« Droits afférents à la base de données » : désigne les droits découlant de ceux prévus au Chapitre III (« sui generis ») de la Directive européenne n°96/9/CE du 11 mars 1996 relative aux bases de données (dans sa version amendée et transposée en France), y compris l'Extraction et la Réutilisation de la totalité ou d’une Partie Substantielle du Contenu.
-« Droits de Propriété Intellectuelle » : désigne de manière générale le droit d’auteur, les droits voisins au droit d’auteur, le droit sui generis afférent aux bases de données.
-« Extraction » : désigne le transfert ou la reproduction permanent ou temporaire de la totalité ou d’une partie substantielle du Contenu sur un autre support, et ce, par tous moyens et sous quelque forme que ce soit.
-« Publiquement » (ou « Public », « Publique ») : signifie la mise à disposition d’un Contenu à des Personnes autres que le Réutilisateur ou que le Réutilisateur ne contrôle pas.
-« Réutilisation » : désigne tout moyen de rendre Publique la totalité ou une Partie Substantielle du Contenu, quel que soit le mode d’Extraction ou de diffusion.
-« Substantiel(le) » : signifie substantiel en termes de quantité, de qualité ou les deux, au sens de l’article L. 342-1 du Code de la propriété intellectuelle. L’Extraction et la Réutilisation systématiques et répétées de parties non substantielles du Contenu sont susceptibles d’être considérées comme l’Extraction ou la Réutilisation d’une Partie Substantielle du Contenu.
-« Transférer » : désigne, sous sa forme verbale, le fait d’Utiliser la Base de données, une Base de données Dérivée ou la Base de données en tant que partie d’une Base de données Collaborative de toute manière permettant à une personne de créer ou recevoir des copies de la Base de données ou d’une Base de données Dérivée. Le fait de Transférer n’inclut pas l’interaction d’un Réutilisateur avec un réseau informatique ni la création ou l’Utilisation d’une Création Produite en l’absence de transfert d’une copie de la Base de données ou d’une Base de données Dérivée.
-« Utiliser » : désigne, sous sa forme verbale, toute action soumise au respect des droits d'auteur ou des Droits afférents à la base de données, que ce soit sur le support original ou non, ce qui inclut, notamment, la distribution, la copie, la diffusion en public, l’affichage public et la préparation d’œuvres dérivées de la Base de données ainsi que toute modification de la Base de données pouvant s’avérer techniquement nécessaire pour son utilisation dans un mode ou un format différent.
-Lorsqu’ils sont au singulier, ces termes incluent le pluriel et inversement.
-
-
-
-ARTICLE 1 BIS – OBJET ET CHAMP D'APPLICATION DE LA LICENCE
-La Licence a pour objet d’autoriser les Réutilisateurs à partager, modifier, utiliser librement des Contenus rendus disponibles par TRANSDEV ROYAN ATLANTIQUE dans une démarche OPEN DATA en régissant d’une part les Droits de Propriété Intellectuelle, et en instaurant un lien contractuel entre le Réutilisateur et TRANSDEV ROYAN ATLANTIQUE.
-
-Sont exclus de la Licence :
-
-les programmes et interfaces informatiques utilisés pour créer ou exploiter la Base de données ;
-les brevets relatifs au Contenu ou à la Base de données
-les marques appartenant à TRANSDEV ROYAN ATLANTIQUE, déposées et associées à la Base de données
-les marques appartenant à des tiers, déposées et associées à la Base de données
-Il est expressément rappelé que la Licence ne confère aucun droit sur les éléments distincts du Contenu figurant dans la Base de données qui peuvent être soumis à d’autres droits, notamment des droits d’auteur, des brevets, des marques, des droits en matière de protection des données personnelles, et tout autre élément individuel du Contenu susceptible de faire l’objet de droits de propriété intellectuelle au sens du Code de la propriété intellectuelle.
-
-
-
-ARTICLE 2 – DROITS CONFÉRÉS – CONDITIONS D'UTILISATION
-2.1 Droits conférés
-TRANSDEV ROYAN ATLANTIQUE concède au Réutilisateur le droit personnel, non exclusif et gratuit, de Réutilisation de la Base de données dans le cadre des dispositions de la Licence, dans le monde entier et pour la durée des Droits de Propriété Intellectuelle applicables, dans les conditions exprimées ci-dessous et pour les finalités suivantes, exclusivement :
-
-permettre à des développeurs, acteurs de la communauté Open Data, d’intégrer les données mises à disposition dans des applications ou sites Internet, dans les conditions visées par la Licence ;
-permettre aux autorités organisatrices de transport d’exécuter leur mission de service public auprès de leurs usagers exclusivement ;
-permettre aux partenaires du transport public d’améliorer l’information des usagers dudit transport public (délégataire de service public de transport ; gestionnaire de parking …)
-Les droits octroyés concernent :
-
-L’Extraction et la Réutilisation de la totalité ou d’une Partie Substantielle du Contenu ;
-La création de Bases de données Dérivées ;
-La création de Bases de données Collaboratives ;
-La création de reproductions temporaires ou permanentes, par tous moyens et sous quelque forme que ce soit, en tout ou en partie, y compris de toute Base de données Dérivée ou en tant que partie d’une Base de données Collaborative ;
-La distribution, la communication, l’affichage, la mise à disposition ou la diffusion au public, par tous moyens et sous quelque forme que ce soit, en tout ou en partie, y compris de toute Base de données Dérivée ou en tant que partie d’une Base de données Collaborative.
-La mise à disposition des données et Contenus de TRANSDEV ROYAN ATLANTIQUE en vertu de la Licence est limitée à un volume d’Extraction de 20 (vingt) requêtes par minute et par terminal connecté. Au-delà de ce volume de requêtes individuelles, toute mise à disposition de données ou de Contenus sera soumise à un accord spécifique et écrit entre TRANSDEV ROYAN ATLANTIQUE et le Réutilisateur desdits données ou Contenus.
-
-2.2 Conditions d'utilisation
-Le respect des conditions d’utilisation décrites ci-après conditionne l’octroi des droits par TRANSDEV ROYAN ATLANTIQUE dans le cadre de la Licence. Tout manquement à ces obligations sera considéré comme une violation grave de la Licence, TRANSDEV ROYAN ATLANTIQUE se réservant alors le droit de suspendre l’accès des données au Licencié ou d’y mettre fin.
-
-2.2.1 Avis et notifications
-Si le Réutilisateur Transfère Publiquement la présente Base de données, toute Base de données Dérivée ou la Base de données en tant que partie d’une Base de données Collaborative, le Réutilisateur est alors tenu à ce qui suit :
-
-Entreprendre uniquement cette action conformément aux conditions de la Licence ou d'une autre licence autorisée au titre de l'Article 2.2.3 ci-dessous ;
-Inclure une copie intégrale du texte de la Licence et éventuellement de son URI (Uniform Resource Identifier) à la Base de données ou Base de données Dérivée et dans toute autre documentation pertinente relative aux Contenus concernés ;
-Conserver telle quelle toute mention des droits d’auteur ou des Droits afférents à la Base de données ainsi que toutes mentions en relation avec la Licence.
-S’il s’avère impossible d’intégrer les mentions requises dans un fichier ou support spécifique en raison de leur structure, le Réutilisateur est tenu d'inclure les mentions à un emplacement (tel qu’un répertoire pertinent) où les utilisateurs pourront les retrouver facilement et gracieusement.
-2.2.2 Notification d’utilisation du résultat (Contenu)
-Ni l’utilisation de tout ou partie de la Base de données, ni la création ou l’Utilisation d’une Création Produite ne nécessitent de mentions au sens de l’Article 2.2.1 dès lors que l’utilisation de la Base de données ou de la Création Produite n’est pas Publique. Dans le cas contraire -si le Réutilisateur utilise Publiquement tout ou partie de la Base de données ou d’une Création Produite-, il est tenu d’y intégrer une mention, laquelle est destinée à informer toute personne utilisant, consultant, accédant à, interagissant ou étant en contact avec tout ou partie de la Base de données ou de la Création Produite, de ce que le Contenu provient de la Base de données, de la Base de données Dérivée ou de la Base de données en tant que partie d’une Base de données Collaborative, et qu’elle est soumise aux conditions de la Licence.
-
-Exemple de mention. - Le message suivant répond aux exigences posées par l’Article 2.2.2 pour les déclarations :
-
-Contient des informations issues de la Base de données TRANSDEV ROYAN ATLANTIQUE, présentement mises à disposition aux conditions de la licence TRANSDEV ROYAN ATLANTIQUE OPEN DATA.
-
-Pour toute utilisation de ces informations, il conviendra d’inclure un lien hypertexte vers l’URI de la Base de données et un lien hypertexte vers l’URI du texte de la présente Licence. S’il est impossible de créer des liens hypertextes, le Réutilisateur inclura l’intégralité du texte figurant aux dits URI à la déclaration susmentionnée.
-
-2.2.3 Partage à l’identique des conditions initiales
-a) Toute Base de données dérivée que le Réutilisateur utilise Publiquement doit impérativement et cumulativement respecter les termes :
-
-de la Licence ; ou
-de toute version ultérieure de la Licence.
-b) A toutes fins utiles, l’Extraction ou la Réutilisation de la totalité ou d’une Partie Substantielle du Contenu dans une nouvelle base de données constitue une Base de données Dérivée et doit donc respecter les stipulations du présent article.
-
-c) Bases de données dérivées et Créations
-
-Si une Création Produite réalisée à partir d’une Base de données dérivée est Utilisée Publiquement, ladite Base de données Dérivée est Utilisée Publiquement et doit par conséquent être conforme aux prescriptions du présent article.
-
-d) Partage à l’identique des conditions initiales et Contenu supplémentaire.
-
-A toutes fins utiles, le Réutilisateur n’est pas autorisé à ajouter du Contenu à des Bases de données dérivées en vertu du présent article si l’ajout dudit Contenu s'avère incompatible avec les droits octroyés au titre de la Licence.
-
-2.2.4 Limitation du Partage à l’identique aux conditions initiales
-Les exigences stipulées à l’Article 2.2.3 ne s’appliqueront pas dans les cas suivants :
-
-Le Réutilisateur n’est pas tenu de concéder une licence relative aux Bases de données Collaboratives en vertu de la Licence s’il intègre la Base de données ou une Base de données Dérivée dans la Base de données Collaborative ; la Licence s'appliquera néanmoins à la Base de données ou à une Base de données Dérivée faisant partie de la Base de données Collaborative ;
-L’Utilisation de la Base de données, d’une Base de données Dérivée ou de la Base de données faisant partie d’une Base de données Collaborative pour réaliser une Création Produite n'implique pas la création d’une Base de données dérivée au sens de l’Article 2.2.3 ;
-L’utilisation d’une Base de données Dérivée en interne, au sein d’une organisation, n’est pas considérée comme Publique et n’est donc pas soumise aux exigences de l’Article 2.2.3.
-2.2.5 Accès à des Bases de données dérivées
-Si le Réutilisateur Utilise Publiquement une Base de données Dérivée ou une Création Produite obtenue depuis une Base de données Dérivée, il est également tenu de fournir aux destinataires de la Base de données Dérivée ou de la Création Produite une copie numérique des éléments suivants :
-
-a) la totalité de la Base de données Dérivée ; ou
-
-b) un fichier contenant soit l’ensemble des modifications apportées à la Base de données, soit la méthode appliquée pour apporter lesdites modifications à la Base de données (comme un algorithme), y compris tout Contenu supplémentaire éventuel, et qui représente l’ensemble des différences existant entre la Base de données et la Base de données Dérivée. La Base de données Dérivée (sous a.) ou le fichier contenant les modifications (sous b.) devra être mis à disposition à un coût n’excédant pas le coût de distribution physique ou gratuitement en cas de distribution en ligne.
-
-2.2.6 Mesures technologiques et conditions supplémentaires
-La Licence n’autorise pas le Réutilisateur à imposer (sauf sous réserve des cas de distribution parallèle présentés plus loin dans le présent article) de mesure technologique ou condition relativement à la Base de données, une Base de données Dérivée ou la totalité ou une Partie Substantielle du Contenu qui aurait pour effet d’altérer ou de restreindre les conditions de la Licence ou de tout droit octroyé en application de celle-ci, ou qui aurait pour effet ou pour objet de restreindre la capacité de toute personne à exercer lesdits droits.
-
-Distribution parallèle : Le Réutilisateur peut imposer des mesures technologiques ou des conditions sur la Base de données, la Base de données Dérivée, ou l'ensemble ou une Partie Substantielle du Contenu (une « Base de données soumise à restriction ») contraires aux stipulations du présent article lorsqu’il rend également disponible une copie de la Base de données ou de la Base de données Dérivée au bénéfice du destinataire de la Base de données soumise à restriction :
-
-qui soit disponible sans frais supplémentaires ;
-qui inclue une copie de la Licence et éventuellement de son URI ;
-qui soit disponible sur un support n’altérant ni ne restreignant les conditions de la Licence, ni aucun droit octroyé en application de celle-ci, ou ayant pour effet ou objet de restreindre la capacité de toute personne à exercer lesdits droits (une « Base de données non soumise à restriction ») ; et
-La Base de données non soumise à restriction sera au moins aussi accessible au destinataire, dans la pratique, que la Base de données soumise à restriction.
-
-A toutes fins utiles, le Réutilisateur peut placer la Base de données ou une Base de données Dérivée dans un environnement protégé par un mot de passe requérant une authentification ou dont l’accès est restreint de manière similaire, sous réserve que le Réutilisateur n’altère pas ni ne restreigne les conditions de la Licence ni aucun droit octroyé en application de celle-ci, et que le Réutilisateur ne restreigne ni n’ait l’intention de restreindre la capacité d’aucune personne à exercer lesdits droits.
-
-2.2.7 Octroi d’une Licence à un tiers
-Le Réutilisateur n’est pas autorisé à octroyer une sous-licence relativement à la Base de données. Chaque fois que le Réutilisateur communiquera la Base de données, la totalité ou une Partie Substantielle du Contenu, ou toute Base de données Dérivée à tout tiers, de quelque manière que ce soit, TRANSDEV ROYAN ATLANTIQUE concède au destinataire une licence d’utilisation de la Base de données aux mêmes conditions que la Licence.
-
-Le Réutilisateur est autorisé à faire respecter tout droit qu’il détient relativement à une Base de données Dérivée. Le Réutilisateur est seul responsable de toute modification d’une Base de données Dérivée créée par lui ou par toute autre Personne sous sa responsabilité. Le Réutilisateur ne peut imposer de restriction supplémentaire à l'exercice des droits octroyés ou invoqués en vertu de la Licence.
-
-
-
-ARTICLE 3 – GARANTIES ET RESPONSABILITÉ
-De manière générale, la Licence de la Base de données est accordée « telle quelle » par TRANSDEV ROYAN ATLANTIQUE, sans aucune garantie de quelque type que ce soit, qu'elle soit expresse, tacite ou qu’elle découle de la loi, de la coutume ou de l’usage commercial. TRANSDEV ROYAN ATLANTIQUE est exonérée en particulier de toute responsabilité au titre de la condition de propriété ou de toute garantie tacite, de l’absence de violation, de l’exactitude ou de l'exhaustivité, de la présence ou de l’absence d’erreurs, de l’adéquation à une utilisation particulière, de la qualité marchande ou autre ou de la discontinuité, la suspension ou l’interruption temporaire ou définitive de mise à disposition des Contenus.
-
-Par ailleurs, sous réserve de toute responsabilité ne pouvant légalement faire l’objet d’une exclusion ou d’une limitation de responsabilité, SNCF exclut expressément et ne saurait être tenue pour responsable au titre de toute perte ou de tout dommage causé à toute personne de quelque manière et à quelque moment que ce soit dans le cadre de toute utilisation au titre de la Licence (notamment du fait de la réutilisation des données, que ce soit par le Réutilisateur ou par toute autre personne, et que ladite perte ou ledit dommage résulte d’une faute de TRANSDEV ROYAN ATLANTIQUE ou non). Cette exonération de responsabilité comprend notamment tout dommage direct ou indirect, tel que le manque à gagner, la perte de données, la perte d’avantages, de bénéfices prévus ou espérés ou de marchés. Cette exonération s’applique même si TRANSDEV ROYAN ATLANTIQUE a été informée de la possibilité que de tels dommages surviennent.
-
-En outre, la mention de paternité utilisée par le Réutilisateur ne confère pas un caractère officiel à la réutilisation de l’Information, et ne constitue nullement une quelconque reconnaissance ou garantie par TRANSDEV ROYAN ATLANTIQUE, ou par toute autre entité publique, du Réutilisateur ou de sa réutilisation.
-
-Le Réutilisateur fait son affaire, le cas échéant, des moyens à mettre en œuvre pour que ses systèmes informatiques soient en adéquation avec le format des informations et / ou les modalités de mise à disposition des informations et Contenus.
-
-Dans l’hypothèse où des évolutions, notamment liées au changement de format, à la modification de structure des bases de données, ou de fichier et/ ou d’évolution des modalités de mise à disposition des données et Contenus, induiraient pour le Réutilisateur des adaptations techniques de ses équipements, le surcoût d’adaptation qui en découlerait ne pourrait en aucun cas être mis à la charge de TRANSDEV ROYAN ATLANTIQUE. Le Réutilisateur ne peut prétendre à aucune indemnité ni compensation à ce titre.
-
-Le Réutilisateur est le seul responsable de la réutilisation de l’Information.
-
-
-
-ARTICLE 4 - OBLIGATIONS DU RÉUTILISATEUR
-En complément du respect des conditions d’Utilisation de la Licence, le Réutilisateur s’engage :
-
-à vérifier que la Réutilisation n’entraîne pas une dénaturation du sens, du caractère informationnel ou de l’objet du Contenu ;
-à indiquer la source et la date de dernière mise à jour du Contenu et à vérifier que la Réutilisation n’induise pas en erreur les tiers quant au Contenu, sa source et sa date de mise à jour ou de mise à disposition ;
-à respecter, sans restriction ni réserve, la Licence ainsi que la réglementation en vigueur ;
-conformément à loi n° 78-753 du 17 juillet 1978, la Réutilisation ne doit en aucun cas être susceptible de porter atteinte à la sûreté de l’Etat, à la sécurité publique ou à la sécurité des personnes.
-Le Réutilisateur s’abstient de tout usage contraire aux lois et règlements ou portant atteinte à l’ordre public ou de tout autre usage portant atteinte à l’image de marque de TRANSDEV ROYAN ATLANTIQUE. Tout manquement du Réutilisateur aux conditions de la présente Licence engage sa responsabilité.
-
-Les obligations ci-dessus mentionnées demeurent applicables pendant toute la durée de Réutilisation des informations, y compris en cas de cessation de mise à disposition pour quelque motif ou durée que ce soit ou de résiliation de la Licence.
-
-
-
-ARTICLE 5 - DROITS DE PROPRIÉTÉ INTELLECTUELLE
-Les Droits de propriété intellectuelle attachés au Contenu et aux Bases de données, et détenus par TRANSDEV ROYAN ATLANTIQUE, ne font pas obstacle à leur Réutilisation, dans les conditions et pour les finalités prévues par la Licence exclusivement.
-
-Le Réutilisateur s’engage à respecter, le cas échéant, les droits moraux que l'auteur conserve sur la Base de données et/ou sur le Contenu, conformément aux dispositions du Code de la Propriété intellectuelle. Les droits moraux comprennent le droit d’être identifié en qualité d’auteur de la Base de données ou du Contenu ou de s’opposer à tout traitement susceptible de porter atteinte à son honneur et à sa réputation, ainsi que tout autre traitement dérogatoire.
-
-La présente Licence n’affecte aucun droit que le Réutilisateur ou toute autre personne sont susceptibles de détenir indépendamment au titre de toute disposition légale ou réglementaire applicable en relation avec l’utilisation de la présente Base de données, y compris, notamment :
-
-Exceptions au Droit afférent à la base de données, notamment : L’Extraction du Contenu à partir de Bases de données non électroniques à des fins privées, l’Extraction à des fins d’illustration pédagogique ou de recherches scientifiques ainsi que l’Extraction ou la Réutilisation à des fins de sécurité publique ou dans le cadre d'une procédure administrative ou judiciaire déterminée.
-Toute limitation ou exception au droit d’auteur ou de toute autre disposition légale ou réglementaire applicable.
-
-
-ARTICLE 6 - CESSATION DES DROITS AU TITRE DE LA PRÉSENTE LICENCE
-6.1. A toutes fins utiles, toutes personnes qui auraient reçu la Base de données, la totalité ou une Partie Substantielle du Contenu, les Bases de données dérivées ou la Base de données faisant partie d'une Base de données Collaborative grâce au Réutilisateur conformément à la Licence conserveront le bénéfice de cette Licence, sous réserve que leur utilisation soit conforme en tous points à la Licence ou à une licence octroyée au titre de l’Article 2.2.7 de la présente Licence. Les articles 1, 1bis, 2, 6 et 7 survivront à la cessation de la présente Licence pour quelque motif que ce soit.
-
-6.2. Si le Réutilisateur n’a manqué à aucune obligation lui incombant au titre des conditions de la présente Licence, TRANSDEV ROYAN ATLANTIQUE ne pourra mettre fin à ses droits au titre de ladite Licence, sous réserve des dispositions de l’Article 3 ci-dessus, ceci même si TRANSDEV ROYAN ATLANTIQUE met fin aux droits d'un autre Licencié en raison du non respect par ce dernier des conditions de la Licence.
-
-
-
-ARTICLE 7 - STIPULATIONS GÉNÉRALES
-7.1 Si l'une quelconque des stipulations de la Licence s’avérait invalide ou inapplicable, ladite invalidité ou inapplicabilité n’entachera pas la validité ou l’applicabilité des autres conditions de ladite Licence, et toute autre stipulation de la Licence restera valide et applicable dans toute la mesure permise par la loi.
-
-7.2 La Licence constitue l’intégralité de l’accord entre les parties. Elle remplace et annule toute convention, tout accord ou toute attestation antérieure relative au même objet.
-
-7.3 En cas de manquement du Réutilisateur aux conditions de la Licence, ce dernier ne saurait être autorisé à invoquer pour justifier de ce manquement des conditions qui y sont énoncées ni à entamer une action de toute nature et notamment judiciaire contre quelque manquement de TRANSDEV ROYAN ATLANTIQUE.
-
-7.4. Le fait pour TRANSDEV ROYAN ATLANTIQUE de ne pas se prévaloir d'un manquement du Réutilisateur à l'une quelconque des obligations visées dans la Licence ne saurait être interprété pour l'avenir comme une renonciation à l'obligation en cause.
-
-7.5 Droit applicable. La Licence est régie par le droit français.
-
-7.6 Compétence territoriale. En cas de différends et/ou de litiges, seuls les tribunaux du ressort du Tribunal de grande Instance de Paris sont compétents.
+Transdev Royan Atlantique met à disposition les données du réseau de transport cara'bus sous couvert de la licence ODBL "Open Data Base License – ODBL" .
+
+Texte complet du contrat de licence en anglais, version originale faisant foi : http://opendatacommons.org/licenses/odbl/1.0
+
+Une traduction française de l'Open Data Base License (ODbL) est fournie pour faciliter votre compréhension de la licence, toutefois, seule la version anglaise fait foi : 
+
+Licence ODbL en français
+
+Résumé des principaux droits et obligations du ré-utilisateur (sources : open data commons; Veni, Vidi, Libri)
+Attention : ce résumé n'est pas un contrat de licence en soi mais uniquement un élément informatif, seul le texte complet du contrat de licence fait foi.
+
+Vous êtes libres :
+- De partager : copier, distribuer et utiliser la base de données.
+- De créer : produire des créations à partir de cette base de données.
+- D'adapter : modifier, transformer et construire à partir de cette base de données.
+Aussi longtemps que :
+- Vous mentionnez la paternité : Vous devez mentionnez Transdev Royan Atlantique comme étant la source de la base de données pour toute utilisation publique de la base de données ou pour toute création produite à partir de la base de données.
+- Vous insérez un lien vers la source: vous devez insérer le lien suivant http://www.carabus-transport.com/ dans toutes vos réalisations qui utilisent la base de données.
+- Pour toute utilisation ou redistribution de la base de données, ou création produite à partir de cette base de données, vous devez clairement mentionner aux tiers la licence de la base de données et garder intacte toute mention légale sur la base de données originaire.
+- Vous partagez aux conditions identiques : si vous utilisez publiquement une version adaptée de cette base de données, ou que vous produisiez une création à partir d'une base de données adaptée, vous devez aussi offrir cette base de données adaptée selon les termes de la licence ODbL.
+- Gardez ouvert : si vous redistribuez la base de données, ou une version modifiée de celle-ci, alors vous ne pouvez utiliser de mesure technique restreignant la création que si vous distribuez aussi une version sans ces restrictions.
