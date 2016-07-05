@@ -1,2 +1,2 @@
 # carabus
-Données GTFS du réseau de transport public cara'bus
+Données GTFS du réseau de transport public cara'bus sous licence ODBL
